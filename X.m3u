@@ -4,7 +4,7 @@ http://96.44.140.132:18006/view.php?type=m3u8&amp;id=sz_1001&amp;key=84797b799ae
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="台湾电视",J2
 http://96.44.140.132:18006/view.php?type=m3u8&amp;id=sz_1002&amp;key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="台湾电视",TVB星河频道
-http://96.44.140.132:18006/view.php?type=m3u8&amp;id=c_58031&amp;key=84797b799ae18d1b
+http://23.237.61.18:61980/myplay/c_58031/index.m3u8?key=6CnUTaZaCL6o8HsdEoVilw&expires=1619750256
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="台湾电视",无线财经
 http://96.44.140.132:18006/view.php?type=m3u8&amp;id=sz_1003&amp;key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="台湾电视",明珠台
