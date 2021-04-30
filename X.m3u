@@ -494,9 +494,11 @@ http://51.79.225.14:61980/myplay/cn_3_13009/index.m3u8?key=RSD-FWww4vNYCHWEb3HGK
 #EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="纪录频道",DiscoveryScirnce
 http://51.79.225.14:61980/myplay/cn_3_13010/index.m3u8?key=-rpLf_zqMiRfdqf-6hLqtw&amp;expires=1619752045
 #EXTINF:-1 tvg-id="6170" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="纪录频道",DMAX
-http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=zAjJU9MPRxgCuwFXCY47ow&amp;expires=1619800149
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",Discovery Turbo
 http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=CQzIYgbW8PEbElmw_LfRwA&amp;expires=1619782464
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",Discovery Turbo
+http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=zAjJU9MPRxgCuwFXCY47ow&amp;expires=1619800149
+
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="纪录频道",History
 http://51.79.225.14:61980/myplay/cn_0_8811/index.m3u8?key=nKvpZ-_HNsh8kjwg2114Dg&amp;expires=1619752852
 #EXTINF:-1 tvg-id="7153" tvg-name="History2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="纪录频道",History2
