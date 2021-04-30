@@ -508,4 +508,29 @@ http://23.237.61.18:61980/myplay/ml2_884/index.m3u8?key=wBk0QHtv8Qq06OCbrfk-UQ&a
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="香港",TVB星河频道
 http://23.237.61.18:61980/myplay/c_58031/index.m3u8?key=ddKh0OMjdhZhpxT77kIkdA&amp;expires=1619802023
 
+#EXTM3U
+#EXTINF:-1 tvg-id="6177" tvg-name="博斯高球1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="运动频道",博斯高球1
+http://51.79.226.18:61980/myplay/cn_2_12007/index.m3u8?key=cM_R4mkBGh6oss_nDU0wrw&amp;expires=1619751569
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="运动频道",博斯高球2
+http://51.79.225.14:61980/myplay/cn_2_12008/index.m3u8?key=PWeO2RTVg-MozBHBXdeZuQ&amp;expires=1619751583
+#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="运动频道",博斯魅力
+http://51.79.225.14:61980/myplay/cn_2_12009/index.m3u8?key=W6od771Vy138EzFXai1JcQ&amp;expires=1619751604
+#EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="运动频道",博斯网球
+http://51.79.225.14:61980/myplay/cn_2_12010/index.m3u8?key=PaZG6coQaDgBc6_rYumDuw&amp;expires=1619751620
+#EXTINF:-1 tvg-id="6176" tvg-name="博斯无限台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" group-title="运动频道",博斯无限
+http://51.79.226.18:61980/myplay/cn_2_12011/index.m3u8?key=gSZxXQ6eU1ik-Ky3sSSiSw&amp;expires=1619751633
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="运动频道",博斯运动1
+http://51.79.226.18:61980/myplay/cn_2_12005/index.m3u8?key=FnfJ8fYGMfVm6VuVIeRehQ&amp;expires=1619751542
+#EXTINF:-1 tvg-id="6174" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="运动频道",博斯运动2
+http://51.79.225.14:61980/myplay/cn_2_12006/index.m3u8?key=rPE2oO_Fw_P4RkBHc4_dQg&amp;expires=1619751556
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="运动频道",纬来体育
+http://51.79.225.14:61980/myplay/cn_4_14011/index.m3u8?key=wAR9-Zq3gxwedUl6IlMxGg&amp;expires=1619752445
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="运动频道",ELEVEN体育一台
+http://51.79.225.14:61980/myplay/cn_1_11006/index.m3u8?key=gPQ_4f4mL_TAi_qLAKV9cQ&amp;expires=1619782030
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="运动频道",ELEVEN体育二台
+http://51.79.226.18:61980/myplay/cn_1_11007/index.m3u8?key=UjqEuzqxNlqypZukUZKJzw&amp;expires=1619751479
+#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="运动频道",Euro Sports
+http://51.79.225.14:61980/myplay/cn_3_13023/index.m3u8?key=TXhmfZIeHRRQ72rhaNfS8Q&amp;expires=1619752132
+#EXTINF:-1 tvg-id="6122" tvg-name="Z频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ZChannel.png" group-title="运动频道",Z频道
+http://51.79.226.18:61980/myplay/cn_2_12014/index.m3u8?key=ItGF38WfLA0BpJCdw4_3wQ&amp;expires=1619751680
 
