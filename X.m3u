@@ -497,8 +497,6 @@ http://51.79.225.14:61980/myplay/cn_3_13010/index.m3u8?key=-rpLf_zqMiRfdqf-6hLqt
 http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=zAjJU9MPRxgCuwFXCY47ow&amp;expires=1619800149
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",Discovery Turbo
 http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=CQzIYgbW8PEbElmw_LfRwA&amp;expires=1619782464
-#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="纪录频道",EVE
-http://51.79.226.18:61980/myplay/cn_3_13006/index.m3u8?key=fg98RLD1M-bBz29WoiRFBQ&amp;expires=1619751986
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="纪录频道",History
 http://51.79.225.14:61980/myplay/cn_0_8811/index.m3u8?key=nKvpZ-_HNsh8kjwg2114Dg&amp;expires=1619752852
 #EXTINF:-1 tvg-id="7153" tvg-name="History2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="纪录频道",History2
