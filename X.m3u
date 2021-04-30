@@ -26,9 +26,9 @@ http://ivi.bupt.edu.cn/hls/cctv12.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://39.134.66.66/PLTV/88888888/224/3221225557/index.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",CCTV-16NEWS
 http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村
