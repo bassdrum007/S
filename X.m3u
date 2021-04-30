@@ -190,9 +190,9 @@ http://51.79.226.18:61980/myplay/cn_1_11016/index.m3u8?key=dqurssAvZ5Hebfh1666Cw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾电视",Cbeebies卡通
 http://51.79.225.14:61980/myplay/cn_1_11018/index.m3u8?key=Yor_Jg4cMAbcfIb97BIAgA&expires=1619751151
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="台湾电视",Baby TV
-http://51.79.225.14:61980/myplay/cn_1_11017/index.m3u8?key=5sjAYz0y6frAQbLwqFlexA&expires=1619751188
+http://51.79.226.18:61980/myplay/cn_1_11018/index.m3u8?key=d7Oz2ZhUjrKhqlulBrIZRg&expires=1619781798
 #EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="台湾电视",Life Time
-http://96.44.140.132:18006/view.php?type=m3u8&amp;id=cn_1_11017&amp;key=84797b799ae18d1b
+http://51.79.225.14:61980/myplay/cn_1_11017/index.m3u8?key=o4OJ6iYS7Pr68VlqvbQRmg&expires=1619781885
 #EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾电视",亚洲旅游台
 http://51.79.226.18:61980/myplay/cn_1_11020/index.m3u8?key=IkdI0uNmhO2aAe-6VUdOaA&expires=1619751207
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="台湾电视",FOX 
@@ -203,14 +203,14 @@ http://51.79.226.18:61980/myplay/cn_2_12002/index.m3u8?key=J6rMRQrYMkPzrS6Ko5u8q
 http://51.79.225.14:61980/myplay/cn_1_11009/index.m3u8?key=oy2wgqBqT-q7BmFe_GJAhw&expires=1619751260
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾电视",FOX family
 http://51.79.226.18:61980/myplay/cn_1_11010/index.m3u8?key=7RzTSBvAzMKSWSQgGu1clw&expires=1619751278
-#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="台湾电视",FOX SPORTS
+#EXTINF:-1 tvg-id="6091" tvg-name="高点综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="台湾电视",高点综合
 http://51.79.225.14:61980/myplay/cn_2_12003/index.m3u8?key=T1Dk1lyErzbBTuoahcrRYg&expires=1619751293
 #EXTINF:-1 tvg-id="6091" tvg-name="壹新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="台湾电视",壹新闻
 http://51.79.226.18:61980/myplay/cn_2_12004/index.m3u8?key=pwhtTpDIz9iiCCAKZ9Suuw&expires=1619751308
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="台湾电视",TVN
 http://51.79.225.14:61980/myplay/cn_1_11015/index.m3u8?key=GrP7Vqa97Uv_NsWJ0vxzXQ&expires=1619751445
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾电视",Eleven Sports Plus
-http://51.79.226.18:61980/myplay/cn_1_11006/index.m3u8?key=zlCeoxxUi747qgWsExPEuw&expires=1619751460
+http://51.79.225.14:61980/myplay/cn_1_11006/index.m3u8?key=gPQ_4f4mL_TAi_qLAKV9cQ&expires=1619782030
 #EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾电视",Eleven Sports 2
 http://51.79.226.18:61980/myplay/cn_1_11007/index.m3u8?key=UjqEuzqxNlqypZukUZKJzw&expires=1619751479
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾电视",Fx Movie Channel
@@ -239,7 +239,7 @@ http://51.79.226.18:61980/myplay/cn_2_12013/index.m3u8?key=7F_uvcSdz-8n_aX7WrSuc
 http://51.79.226.18:61980/myplay/cn_2_12014/index.m3u8?key=ItGF38WfLA0BpJCdw4_3wQ&expires=1619751680
 #EXTINF:-1 tvg-id="7217" tvg-name="EYE旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="台湾电视",EYE TV旅游
 http://51.79.226.18:61980/myplay/cn_0_8807/index.m3u8?key=k-Op55si2zIqrS9erZ8zyg&expires=1619751693
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾电视",NBA动态
+#EXTINF:-1 tvg-id="" tvg-name="NBA動態" tvg-logo="" group-title="台湾电视",NBA動態
 http://51.79.226.18:61980/myplay/cn_0_8810/index.m3u8?key=h3ViXV6AHEumLa9q98uu3g&expires=1619751706
 #EXTINF:-1 tvg-id="6055" tvg-name="东风卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/东风卫视.png" group-title="台湾电视",东风卫视
 http://51.79.226.18:61980/myplay/cn_2_12015/index.m3u8?key=_psCejrgkZJoqVBMvTy0eg&expires=1619751720
@@ -264,10 +264,10 @@ http://51.79.226.18:61980/myplay/cn_3_13020/index.m3u8?key=0Ms5mxmDZ38zvb3doB3DE
 #EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="台湾电视",AXN
 http://51.79.225.14:61980/myplay/cn_3_13021/index.m3u8?key=CksTK8L3g0kKdkgaywLRRg&expires=1619751860
 #EXTINF:-1 tvg-id="6170" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="台湾电视",DMAX
-http://51.79.226.18:61980/myplay/cn_3_13011/index.m3u8?key=nbFigTm3CUpMwVxKMW0vBg&expires=1619751874
+http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=CQzIYgbW8PEbElmw_LfRwA&expires=1619782464
 #EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="台湾电视",Travel Channel
 http://51.79.226.18:61980/myplay/cn_3_13024/index.m3u8?key=xd30Jl0_rjciy69IfVaZBQ&expires=1619751889
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台湾电视",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="台湾电视",HBOHD
 http://51.79.225.14:61980/myplay/cn_3_13001/index.m3u8?key=OSle9HZBxT83UmNBpQI5SQ&expires=1619751902
 #EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="台湾电视",HBO HITS
 http://51.79.226.18:61980/myplay/cn_3_13002/index.m3u8?key=oc8QwOaFC2f3x_CSOAd2Ug&expires=1619751914
@@ -275,11 +275,11 @@ http://51.79.226.18:61980/myplay/cn_3_13002/index.m3u8?key=oc8QwOaFC2f3x_CSOAd2U
 http://51.79.226.18:61980/myplay/cn_3_13003/index.m3u8?key=cFNUVglQ_WXR3eOlVB7KKQ&expires=1619751930
 #EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="台湾电视",HBO signature
 http://51.79.226.18:61980/myplay/cn_3_13004/index.m3u8?key=p1z6zi6u4Egpl6KjZWKoag&expires=1619751946
-#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="台湾电视",Asian Food Network
+#EXTINF:-1 tvg-id="6158" tvg-name="Asian Food Network" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="台湾电视",Asian Food Network
 http://51.79.226.18:61980/myplay/cn_3_13005/index.m3u8?key=CxgDHn0IT6AVO2CjxI6KEQ&expires=1619751958
 #EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="台湾电视",EVE
 http://51.79.226.18:61980/myplay/cn_3_13006/index.m3u8?key=fg98RLD1M-bBz29WoiRFBQ&expires=1619751986
-#EXTINF:-1 tvg-id="1007" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="台湾电视",HITS
+#EXTINF:-1 tvg-id="1007" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="台湾电视",HBO
 http://51.79.225.14:61980/myplay/cn_3_13007/index.m3u8?key=r2j13D8GzNBieixPOJMLUA&expires=1619751998
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="台湾电视",Discovery
 http://51.79.226.18:61980/myplay/cn_3_13008/index.m3u8?key=80RyKN-1BEjGTpu4OE_CAg&expires=1619752011
@@ -345,7 +345,7 @@ http://51.79.225.14:61980/myplay/cn_4_14015/index.m3u8?key=KSfFScvbZO-sF9-DjPe41
 http://51.79.226.18:61980/myplay/cn_4_14017/index.m3u8?key=xLUjdlve4_TeCNCNHU4-uQ&expires=1619752512
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾电视",TVBS欢乐台
 http://51.79.225.14:61980/myplay/cn_4_14016/index.m3u8?key=Zxdx_T8QlJx6Y-gdMQ7L5w&expires=1619752531
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾电视",中天新闻
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="" group-title="台湾电视",中天新闻
 http://51.79.226.18:61980/myplay/cn_4_14018/index.m3u8?key=tCrp--WjS9DHI1juV0iItA&expires=1619752548
 #EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾电视",中天娱乐
 http://51.79.226.18:61980/myplay/cn_4_14020/index.m3u8?key=4CAzquCVuCfhd9ymJto4UQ&expires=1619752566
@@ -365,8 +365,8 @@ http://51.79.225.14:61980/myplay/cn_5_15003/index.m3u8?key=8wpVvoQC5KWLpeCEkmAo1
 http://96.44.140.132:18006/view.php?type=m3u8&amp;id=cn_5_15006&amp;key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="台湾电视",美食星球
 http://51.79.225.14:61980/myplay/cn_0_8804/index.m3u8?key=7jV7ie-l6-xUWKSNqn0YSA&expires=1619752730
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="台湾电视",BBC WORLD NEWS
-http://96.44.140.132:18006/view.php?type=m3u8&amp;id=cn_5_15007&amp;key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="" group-title="台湾电视",BBC World News
+http://51.79.226.18:61980/myplay/cn_4_14018/index.m3u8?key=tCrp--WjS9DHI1juV0iItA&expires=1619752548
 #EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="台湾电视",BBC Lifestyle
 http://51.79.226.18:61980/myplay/cn_0_8805/index.m3u8?key=QVlkEzUnWCTjpVMZ694ibg&expires=1619752755
 #EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="台湾电视",BBC Earth
@@ -379,7 +379,7 @@ http://51.79.226.18:61980/myplay/cn_0_8803/index.m3u8?key=w90aEiizyvGoOAovkEB_Ig
 http://96.44.140.132:18006/view.php?type=m3u8&amp;id=cn_0_8806&amp;key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="台湾电视",History
 http://51.79.225.14:61980/myplay/cn_0_8811/index.m3u8?key=nKvpZ-_HNsh8kjwg2114Dg&expires=1619752852
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="台湾电视",History Channel 2
+#EXTINF:-1 tvg-id="7152" tvg-name="History Channel 2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="台湾电视",History Channel 2
 http://51.79.225.14:61980/myplay/cn_0_8812/index.m3u8?key=6xPmC6zfqIMnnifkJ7VpIQ&expires=1619752867
 #EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="台湾电视",HGTV
 http://51.79.226.18:61980/myplay/cn_0_8808/index.m3u8?key=MGG_VSMljO-9XDa0evkPqQ&expires=1619752884
