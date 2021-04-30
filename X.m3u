@@ -424,13 +424,14 @@ http://23.237.61.18:61980/myplay/c_58007/index.m3u8?key=l5lg_6GXu5jjVm63-771jg&a
 http://23.237.61.18:61980/myplay/c_58031/index.m3u8?key=ddKh0OMjdhZhpxT77kIkdA&amp;expires=1619802023
 
 
+#EXTM3U
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影频道",东森电影
 http://51.79.225.14:61980/myplay/cn_4_14002/index.m3u8?key=HLNq34-eAFm2fXS-rHaOVw&amp;expires=1619752327
 #EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="电影频道",东森洋片
 http://51.79.226.18:61980/myplay/cn_4_14003/index.m3u8?key=9URPAMJJw1TFbrI3tQRQnQ&amp;expires=1619752314
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",华纳电影
+#EXTINF:-1 tvg-id="6149" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="电影频道",WarnerTV
 http://51.79.225.14:61980/myplay/cn_1_11011/index.m3u8?key=jCWkXj51DnTuzKkTy9U2zA&amp;expires=1619751115
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",龙翔时代
+#EXTINF:-1 tvg-id="6082" tvg-name="LSTime电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影频道",龙翔时代LSTime电影台
 http://51.79.225.14:61980/myplay/cn_2_12019/index.m3u8?key=ZvqtNew3OCKFsT6fICjDcw&amp;expires=1619751772
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="电影频道",美亚电影台
 http://51.79.225.14:61980/myplay/cn_1_11001/index.m3u8?key=Lnk-DSysZTMtzfKdE88O6Q&amp;expires=1619751007
@@ -438,7 +439,7 @@ http://51.79.225.14:61980/myplay/cn_1_11001/index.m3u8?key=Lnk-DSysZTMtzfKdE88O6
 http://51.79.226.18:61980/myplay/cn_3_13017/index.m3u8?key=7vvZxAMrJrUJeKib-THCqg&amp;expires=1619751038
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",卫视洋片台
 http://51.79.225.14:61980/myplay/cn_1_11002/index.m3u8?key=DJ70mf4qr1Itl7zL_okmWw&amp;expires=1619751050
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",星卫电影台
+#EXTINF:-1 tvg-id="517" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="电影频道",星卫HD电影
 http://51.79.225.14:61980/myplay/cn_1_11003/index.m3u8?key=oKWUpAbM5EtyHywZ_S_4iA&amp;expires=1619751073
 #EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="电影频道",ANIMAX
 http://51.79.226.18:61980/myplay/cn_3_13020/index.m3u8?key=0Ms5mxmDZ38zvb3doB3DEQ&amp;expires=1619751846
@@ -446,28 +447,26 @@ http://51.79.226.18:61980/myplay/cn_3_13020/index.m3u8?key=0Ms5mxmDZ38zvb3doB3DE
 http://51.79.225.14:61980/myplay/cn_3_13021/index.m3u8?key=CksTK8L3g0kKdkgaywLRRg&amp;expires=1619751860
 #EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",CINEMAX
 http://51.79.226.18:61980/myplay/cn_3_13022/index.m3u8?key=htVehSIFpbpa4d7PqqIQnA&amp;expires=1619752148
-#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="电影频道",EVE
-http://51.79.226.18:61980/myplay/cn_3_13006/index.m3u8?key=fg98RLD1M-bBz29WoiRFBQ&amp;expires=1619751986
 #EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="电影频道",FOX MOVIES
 http://51.79.226.18:61980/myplay/cn_2_12002/index.m3u8?key=J6rMRQrYMkPzrS6Ko5u8qA&amp;expires=1619751247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",FOX family
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="电影频道",FOXCRIME
+http://51.79.225.14:61980/myplay/cn_1_11009/index.m3u8?key=oy2wgqBqT-q7BmFe_GJAhw&amp;expires=1619751260
+#EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="电影频道",FoxFamilyMovies
 http://51.79.226.18:61980/myplay/cn_1_11010/index.m3u8?key=7RzTSBvAzMKSWSQgGu1clw&amp;expires=1619751278
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",Fx Movie Channel
+#EXTINF:-1 tvg-id="711" tvg-name="FXHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FXHD.png" group-title="电影频道",FXHD
 http://51.79.225.14:61980/myplay/cn_1_11012/index.m3u8?key=5GiPGoIvVL0ATzoDZVJx3w&amp;expires=1619751498
 #EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="电影频道",HBO
 http://51.79.225.14:61980/myplay/cn_3_13007/index.m3u8?key=r2j13D8GzNBieixPOJMLUA&amp;expires=1619751998
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBO HD
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="电影频道",HBOHD
 http://51.79.226.18:61980/myplay/cn_3_13001/index.m3u8?key=y0R7VhK2PB284XzSGXFA3A&amp;expires=1619801185
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO HITS
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBOHITS
 http://51.79.226.18:61980/myplay/cn_3_13002/index.m3u8?key=oc8QwOaFC2f3x_CSOAd2Ug&amp;expires=1619751914
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBOSignature
 http://51.79.226.18:61980/myplay/cn_3_13004/index.m3u8?key=p1z6zi6u4Egpl6KjZWKoag&amp;expires=1619751946
-#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO family
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBOFamily
 http://51.79.226.18:61980/myplay/cn_3_13003/index.m3u8?key=cFNUVglQ_WXR3eOlVB7KKQ&amp;expires=1619751930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",Hollywood HD,
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="电影频道",好莱坞电影台,
 http://51.79.226.18:61980/myplay/cn_3_13016/index.m3u8?key=OitnVvyD63VMFBbR6gOvpw&amp;expires=1619752113
-#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="电影频道",LifeTime
-http://51.79.225.14:61980/myplay/cn_1_11017/index.m3u8?key=5sjAYz0y6frAQbLwqFlexA&amp;expires=1619751188
 #EXTINF:-1 tvg-id="7226" tvg-name="StarMoviesHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="电影频道",StarMoviesHD
 http://51.79.226.18:61980/myplay/cn_1_11002/index.m3u8?key=sxIzsfwKCbQAUBYfB5I4BQ&amp;expires=1619805136
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="纪录频道",动物星球
@@ -478,29 +477,33 @@ http://51.79.226.18:61980/myplay/cn_1_11005/index.m3u8?key=P1dZ4VMmZaK0VsWsN_ad6
 http://51.79.226.18:61980/myplay/cn_0_8805/index.m3u8?key=QVlkEzUnWCTjpVMZ694ibg&amp;expires=1619752755
 #EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="纪录频道",Crime Investigation
 http://51.79.226.18:61980/myplay/cn_1_11013/index.m3u8?key=hiMXyiv8qWHDc8ahHXMEFQ&amp;expires=1619751521
+#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="纪录频道",EVE
+http://51.79.226.18:61980/myplay/cn_3_13006/index.m3u8?key=fg98RLD1M-bBz29WoiRFBQ&amp;expires=1619751986
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="纪录频道",HGTV
+http://51.79.226.18:61980/myplay/cn_0_8808/index.m3u8?key=MGG_VSMljO-9XDa0evkPqQ&amp;expires=1619752884
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="纪录频道",LifeTime
+http://51.79.225.14:61980/myplay/cn_1_11017/index.m3u8?key=5sjAYz0y6frAQbLwqFlexA&amp;expires=1619751188
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="纪录频道",国家地理
 http://51.79.226.18:61980/myplay/cn_3_13012/index.m3u8?key=kZy6o5rX918JM9Iznd0z6w&amp;expires=1619752061
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="纪录频道",国家地理野生
 http://51.79.226.18:61980/myplay/cn_1_11008/index.m3u8?key=14rnxyfjlR8Tb6zTvr_Xwg&amp;expires=1619810441
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="纪录频道",Discovery
 http://51.79.226.18:61980/myplay/cn_3_13008/index.m3u8?key=80RyKN-1BEjGTpu4OE_CAg&amp;expires=1619752011
-#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="纪录频道",Discovery Asia
+#EXTINF:-1 tvg-id="6166" tvg-name="DiscoveryAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png" group-title="纪录频道",DiscoveryAsia
 http://51.79.225.14:61980/myplay/cn_3_13009/index.m3u8?key=RSD-FWww4vNYCHWEb3HGKQ&amp;expires=1619752031
-#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="纪录频道",Discovery Scirnce
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="纪录频道",DiscoveryScirnce
 http://51.79.225.14:61980/myplay/cn_3_13010/index.m3u8?key=-rpLf_zqMiRfdqf-6hLqtw&amp;expires=1619752045
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",Discovery Turbo
-http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=zAjJU9MPRxgCuwFXCY47ow&amp;expires=1619800149
 #EXTINF:-1 tvg-id="6170" tvg-name="DMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DMAX.png" group-title="纪录频道",DMAX
+http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=zAjJU9MPRxgCuwFXCY47ow&amp;expires=1619800149
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="纪录频道",Discovery Turbo
 http://51.79.225.14:61980/myplay/cn_3_13011/index.m3u8?key=CQzIYgbW8PEbElmw_LfRwA&amp;expires=1619782464
-#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="纪录频道",FOX CRIME
-http://51.79.225.14:61980/myplay/cn_1_11009/index.m3u8?key=oy2wgqBqT-q7BmFe_GJAhw&amp;expires=1619751260
 #EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="纪录频道",EVE
 http://51.79.226.18:61980/myplay/cn_3_13006/index.m3u8?key=fg98RLD1M-bBz29WoiRFBQ&amp;expires=1619751986
 #EXTINF:-1 tvg-id="7217" tvg-name="EYE旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="纪录频道",EYE TV旅游
 http://51.79.226.18:61980/myplay/cn_0_8807/index.m3u8?key=k-Op55si2zIqrS9erZ8zyg&amp;expires=1619751693
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="纪录频道",History
 http://51.79.225.14:61980/myplay/cn_0_8811/index.m3u8?key=nKvpZ-_HNsh8kjwg2114Dg&amp;expires=1619752852
-#EXTINF:-1 tvg-id="7153" tvg-name="History2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="纪录频道",History Channel 2
+#EXTINF:-1 tvg-id="7153" tvg-name="History2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="纪录频道",History2
 http://51.79.225.14:61980/myplay/cn_0_8812/index.m3u8?key=6xPmC6zfqIMnnifkJ7VpIQ&amp;expires=1619752867
 #EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="纪录频道",Travel Channel
 http://51.79.226.18:61980/myplay/cn_3_13024/index.m3u8?key=xd30Jl0_rjciy69IfVaZBQ&amp;expires=1619751889
