@@ -477,6 +477,8 @@ http://51.79.226.18:61980/myplay/cn_1_11005/index.m3u8?key=P1dZ4VMmZaK0VsWsN_ad6
 http://51.79.226.18:61980/myplay/cn_0_8805/index.m3u8?key=QVlkEzUnWCTjpVMZ694ibg&amp;expires=1619752755
 #EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="纪录频道",Crime Investigation
 http://51.79.226.18:61980/myplay/cn_1_11013/index.m3u8?key=hiMXyiv8qWHDc8ahHXMEFQ&amp;expires=1619751521
+#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="纪录频道",EVE
+http://51.79.226.18:61980/myplay/cn_3_13006/index.m3u8?key=fg98RLD1M-bBz29WoiRFBQ&amp;expires=1619751986
 #EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="纪录频道",HGTV
 http://51.79.226.18:61980/myplay/cn_0_8808/index.m3u8?key=MGG_VSMljO-9XDa0evkPqQ&amp;expires=1619752884
 #EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="纪录频道",LifeTime
