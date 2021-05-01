@@ -448,6 +448,10 @@ http://51.79.226.18:61980/myplay/cn_3_13003/index.m3u8?key=cFNUVglQ_WXR3eOlVB7KK
 http://51.79.226.18:61980/myplay/cn_3_13016/index.m3u8?key=OitnVvyD63VMFBbR6gOvpw&amp;expires=1619752113
 #EXTINF:-1 tvg-id="7226" tvg-name="StarMoviesHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarMoviesHD.png" group-title="电影频道",StarMoviesHD
 http://51.79.226.18:61980/myplay/cn_1_11002/index.m3u8?key=sxIzsfwKCbQAUBYfB5I4BQ&amp;expires=1619805136
+
+
+
+
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="纪录频道",动物星球
 http://51.79.225.14:61980/myplay/cn_3_13014/index.m3u8?key=Nq0VqN5m6z2h-6EDiNCOrQ&amp;expires=1619751834
 #EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="纪录频道",BBC Earth
@@ -485,10 +489,54 @@ http://51.79.225.14:61980/myplay/cn_0_8811/index.m3u8?key=nKvpZ-_HNsh8kjwg2114Dg
 http://51.79.225.14:61980/myplay/cn_0_8812/index.m3u8?key=6xPmC6zfqIMnnifkJ7VpIQ&amp;expires=1619752867
 #EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="纪录频道",Travel Channel
 http://51.79.226.18:61980/myplay/cn_3_13024/index.m3u8?key=xd30Jl0_rjciy69IfVaZBQ&amp;expires=1619751889
+
+
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台
 http://23.237.61.18:61980/myplay/ml2_884/index.m3u8?key=wBk0QHtv8Qq06OCbrfk-UQ&amp;expires=1619753111
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="香港",TVB星河频道
 http://23.237.61.18:61980/myplay/c_58031/index.m3u8?key=ddKh0OMjdhZhpxT77kIkdA&amp;expires=1619802023
+
+#EXTM3U
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",\"凤凰中文,\"
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",\"凤凰资讯,\"
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",\"凤凰香港,\"
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",日テレh
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",BS 朝日h
+http://203.162.235.41:16914
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",BS 东京h
+http://203.162.235.41:16915
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",BS 日テレh
+http://203.162.235.41:16912
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",BS TBSh
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",BSフジh
+http://203.162.235.41:16911
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",BSプレミアム;h
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",TBSテレビh
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",WOWOW シネマh
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",テレビ朝日h
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",テレビ东京h
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日本",フジテレビh
+http://203.162.235.41:16904
+
+
+
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="6177" tvg-name="博斯高球1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="运动频道",博斯高球1
@@ -560,3 +608,144 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225728/index.m3u8?IASHttpSession
 http://111.12.102.68:6610/PLTV/77777777/224/3221225684/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播频道",NewTV中国功夫
 http://111.12.102.68:6610/PLTV/77777777/224/3221225690/index.m3u8?IASHttpSessionId=OTT
+
+
+#EXTM3U
+#EXTINF:-1 group-title="轮播频道",爱电竞
+http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱动漫
+http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱解密
+http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱军武
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱科幻
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱历史
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱奇谈
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱时尚
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱世界
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱玩具
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱喜剧
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱悬疑
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",爱院线
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",百视通动漫1ⓗ
+http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",上海卫视ⓗ
+http://101.71.255.229:6610/zjhs/2/10139/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="轮播频道",Hot欧美影院ⓗ
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="轮播频道",爱电竞
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱电竞
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱谍战
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱谍战
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱动漫
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱都市
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱怀旧
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱家庭
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱家庭
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱江湖
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱江湖
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱解密
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱经典
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱经典
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱军武
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱军武
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱科幻
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="轮播频道",爱科学
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱科学
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱浪漫
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="轮播频道",爱历史
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱历史
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱猎奇
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱猎奇
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱旅行
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱美食
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱美食
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱奇谈
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱奇谈
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱青春
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱赛车
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱赛车
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱时尚
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱世界
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱世界
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱探索
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱体育
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱体育
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱体育
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱玩具
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱喜剧
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="轮播频道",爱悬疑
+http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱幼教
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱娱乐
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/1.m3u8
+#EXTINF:-1 group-title="轮播频道",爱娱乐
+http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+#EXTINF:-1 group-title="轮播频道",爱院线
+http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls
+
+
+
+
+
+
