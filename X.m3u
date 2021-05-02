@@ -1030,3 +1030,49 @@ http://ivi.bupt.edu.cn/hls/yntv.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="邮电大学",中国教育1 
 http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
 
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="·港台电视·_122,#genre#",#genre#",TVB·翡翠台
+https://flv3948069e.live.126.net/live/1ed883e01157e4940c3e665fd6c5276d.flv
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="·港台电视·_122,#genre#",#genre#",TVB·明珠台
+https://flv3948069e.live.126.net/live/c59386e7f9f98b89fad7fadb3d257b00.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",TVB·新闻台
+https://flv3948069e.live.126.net/live/53b0ffb3e4f2c002e382fd713a0900df.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",TVB·财经台
+https://flv3948069e.live.126.net/live/fb6954a77658079fa39298eb62f51a57.flv
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="·港台电视·_122,#genre#",#genre#",有线新闻
+https://flv3948069e.live.126.net/live/5827fd0968834f5111c2fe47c85798bd.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",有线18台
+https://flv3948069e.live.126.net/live/c4f3e745ec2b1fa45890bf1269d8caa9.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",港视32台
+https://flv3948069e.live.126.net/live/bb1070c0c64a2559c27bef088c3eca2b.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",NOW·新闻台
+https://flv3948069e.live.126.net/live/b0654d126b47397b7eeba9102740b618.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",VIU·综合
+https://flv3948069e.live.126.net/live/72c6ca4c97c712321b4df4406c16bb06.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",开放电视
+https://flv3948069e.live.126.net/live/d720d58d997c4a52bc091220d5e927d5.flv
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="·港台电视·_122,#genre#",#genre#",中视
+https://flv3948069e.live.126.net/live/e5c454dfc8396abbee9cf95233a87550.flv
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="·港台电视·_122,#genre#",#genre#",华视
+https://flv3948069e.live.126.net/live/fcd08f2576981869e5619c96794c7d5e.flv
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="·港台电视·_122,#genre#",#genre#",台视
+https://flv3948069e.live.126.net/live/333c7c4098a757c9d6e5f5905b9300a9.flv
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="·港台电视·_122,#genre#",#genre#",民视
+https://flv3948069e.live.126.net/live/e42913845e8a6062b6e8a1b9665f9339.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",TVBS·欢乐台
+https://flv3948069e.live.126.net/live/5adbd97646d66fe47398637ba36f7cd1.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",TVBS·新闻台
+https://flv3948069e.live.126.net/live/8849e2f9923cddf296b470380c9d51ca.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="·港台电视·_122,#genre#",#genre#",中天新闻
+https://flv3948069e.live.126.net/live/1f51f4b9c57b3dee7d2fd16a84ff4471.flv
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="·港台电视·_122,#genre#",#genre#",中视新闻
+https://flv3948069e.live.126.net/live/4855cadfaaaf3cdbf3d8f58ce54708b7.flv
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="·港台电视·_122,#genre#",#genre#",纬来体育
+https://flv3948069e.live.126.net/live/4993d2c442f859b558cb8c580d0a1bce.flv
+#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="·港台电视·_122,#genre#",#genre#",纬来育乐
+https://flv3948069e.live.126.net/live/4e28331da067fac1badda073e5f580b0.flv
+
