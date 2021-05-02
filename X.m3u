@@ -1076,3 +1076,65 @@ https://flv3948069e.live.126.net/live/4993d2c442f859b558cb8c580d0a1bce.flv
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="·港台电视·_122,#genre#",#genre#",纬来育乐
 https://flv3948069e.live.126.net/live/4e28331da067fac1badda073e5f580b0.flv
 
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="电影频道",AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
+#EXTINF:-1 tvg-id="6156" tvg-name="BlueAntEntertainment" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BlueAntEntertainment.png" group-title="电影频道",Blue Ant Entertainment (O
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-id="6182" tvg-name="BlueAntExtreme" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png" group-title="电影频道",Blue Ant Extreme (Opt-1)
+http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",Celestial Movies (Opt-2)
+http://210.210.155.35/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="电影频道",CinemaWorld (Opt-2)
+http://210.210.155.35/uq2663/h/h04/02.m3u8
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="电影频道",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/CINEMAX/index.m3u8?HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",DRAKOR TV
+http://iptv.zqstream.com/zqdrama-gen/tracks-v2a1/mono.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="电影频道",FOX
+http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="电影频道",FOX Action Movies
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="电影频道",FOX Crime
+http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="电影频道",FOX FAMILY MOVIES
+https://laos-tech-live.b-cdn.net/hd-foxfamily_720/index.m3u8
+#EXTINF:-1 tvg-id="385" tvg-name="FOXLIFE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXLIFE.png" group-title="电影频道",FOX Life
+https://doofootball.livestream-cdn.com/iptv/hd-foxlife.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="电影频道",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8?HBO
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="电影频道",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8?HBO
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="电影频道",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8?HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",HBO INDIA
+http://ctgiptv.kitv.live:1935/live/test/test1/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",HBO Red
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8?HBO
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="电影频道",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8?HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",K Drama (Opt-1)
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",K+
+http://210.210.155.35/uq2663/h/h08/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",KIX (Opt-2)
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",SINEMA INDONESIA
+http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",Sony Gem
+http://45.126.83.51/uq2663/h/h19/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",SONY ONE
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",Thrill
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影频道",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/02.m3u8?fluxustv.m3u8
+
